@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.png",
+        url: "/icon.webp",
         width: 1200,
         height: 630,
         alt: "Trang web đang bảo trì",
@@ -42,10 +42,10 @@ export const metadata: Metadata = {
     title: "Trang web đang bảo trì | CHOTNAHNH.VN",
     description:
       "Chúng tôi đang thực hiện nâng cấp hệ thống để mang lại trải nghiệm tốt hơn.",
-    images: ["/og-image.png"],
+    images: ["/icon.webp"],
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icon.webp",
   },
 };
 
