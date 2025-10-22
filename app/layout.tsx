@@ -19,12 +19,12 @@ export const metadata: Metadata = {
   keywords: ["maintenance", "bảo trì", "website", "CHOTNAHNH.VN"],
   authors: [{ name: "CHOTNAHNH.VN", url: "https://www.chotnhanh.vn/" }],
   creator: "CHOTNAHNH.VN",
-  metadataBase: new URL("https://www.chotnhanh.vn/"),
+  metadataBase: new URL("https://maintenance-cn.vercel.app/"),
   openGraph: {
     title: "Trang web đang bảo trì | CHOTNAHNH.VN",
     description:
       "Chúng tôi đang thực hiện nâng cấp hệ thống để mang lại trải nghiệm tốt hơn.",
-    url: "https://www.chotnhanh.vn/",
+    url: "https://maintenance-cn.vercel.app/",
     siteName: "CHOTNAHNH.VN",
     locale: "vi_VN",
     type: "website",
