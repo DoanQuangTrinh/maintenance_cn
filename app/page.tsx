@@ -57,7 +57,7 @@ export default function MaintenancePage() {
                 className="opacity-90 dark:opacity-100"
               />
               <p className="text-sm text-gray-600 dark:text-gray-400 italic">
-                Chúng tôi là đội ngũ <span className="font-semibold text-red-600 dark:text-red-400">CHOTNHANH&gt;VN</span> — luôn sẵn sàng phục vụ Quý khách.
+                Chúng tôi là đội ngũ <span className="font-semibold text-red-600 dark:text-red-400">CHOTNHANH.VN</span> — luôn sẵn sàng phục vụ Quý khách.
               </p>
             </div>
           </div>
@@ -66,7 +66,7 @@ export default function MaintenancePage() {
 
       {/* Footer nhẹ nhàng */}
       <div className="mt-6 text-center text-xs text-gray-500 dark:text-gray-500">
-        © {new Date().getFullYear()} CHOTNHANH&gt;VN — All rights reserved.
+        © {new Date().getFullYear()} CHOTNHANH.VN — All rights reserved.
       </div>
     </div>
   );
