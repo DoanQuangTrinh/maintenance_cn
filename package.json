@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "framer-motion": "^12.23.24",
     "next": "16.0.0",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.7",
