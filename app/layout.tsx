@@ -24,13 +24,13 @@ export const metadata: Metadata = {
     title: "Trang web đang bảo trì | CHOTNAHNH.VN",
     description:
       "Chúng tôi đang thực hiện nâng cấp hệ thống để mang lại trải nghiệm tốt hơn.",
-    url: "https://www.chotnhanh.vn//maintenance",
+    url: "https://www.chotnhanh.vn/",
     siteName: "CHOTNAHNH.VN",
     locale: "vi_VN",
     type: "website",
     images: [
       {
-        url: "/icon.webp",
+        url: "/baotri.png",
         width: 1200,
         height: 630,
         alt: "Trang web đang bảo trì",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: "Trang web đang bảo trì | CHOTNAHNH.VN",
     description:
       "Chúng tôi đang thực hiện nâng cấp hệ thống để mang lại trải nghiệm tốt hơn.",
-    images: ["/icon.webp"],
+    images: ["/baotri.png"],
   },
   icons: {
     icon: "/icon.webp",
